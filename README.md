@@ -3,3 +3,5 @@
 # zmiana z komputera
 
 # zmiana z ww
+
+# xd
